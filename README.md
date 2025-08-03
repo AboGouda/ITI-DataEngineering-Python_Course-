@@ -2,7 +2,7 @@ A comprehensive collection of Python projects developed during the ITI Data Engi
 
 🚀 Projects Overview
 
-1.  OOP Management System — oop_lap.py
+1. 🔧 OOP Management System
 A complete object-oriented system with the following features:
 
 Classes: Person, Employee, Car, and Office
@@ -11,9 +11,6 @@ Inheritance and property validation
 
 Employee attendance management
 
-Automated performance evaluation system
-Property validation and inheritance
-Employee management with attendance tracking
 Automated performance evaluation system
 
 2. 📧 Email Validation Pipeline — emailTask.py
