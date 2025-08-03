@@ -1,4 +1,4 @@
-# 🧠 ITI Data Engineering - Python-Labs
+# 🧠 ITI Data Engineering - Python Labs
 
 A comprehensive collection of Python projects developed during the **ITI Data Engineering Course**, demonstrating proficiency in **Object-Oriented Programming (OOP)**, **Data Processing**, and **ETL Operations**.
 
